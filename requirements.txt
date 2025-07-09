@@ -1,0 +1,5 @@
+fastapi
+requests
+polars
+matplotlib
+sentry-sdk[fastapi]
