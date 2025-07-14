@@ -1,0 +1,15 @@
+# Example .scatool.yaml configuration file
+# Place this file in your project's root directory
+
+# Python-specific configuration
+python:
+  # Specify the Python version to use (e.g., "3.9", "3.10", "3.11")
+  # If not specified, the system default Python will be used
+  version: "3.9"
+
+# Future configuration options for other languages/tools can be added here
+# For example:
+# java:
+#   version: "21"
+# node:
+#   version: "18"
