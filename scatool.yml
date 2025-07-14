@@ -5,7 +5,7 @@
 python:
   # Specify the Python version to use (e.g., "3.9", "3.10", "3.11")
   # If not specified, the system default Python will be used
-  version: null
+  version: "3.11"
 
 # Future configuration options for other languages/tools can be added here
 # For example:
